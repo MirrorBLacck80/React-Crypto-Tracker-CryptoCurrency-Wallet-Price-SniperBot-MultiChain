@@ -1,0 +1,5 @@
+D:\GithubNew\11\CryptoTracker\Tracker\CryptoRate\obj\Debug\CryptoTracker.csproj.AssemblyReference.cache
+D:\GithubNew\11\CryptoTracker\Tracker\CryptoRate\obj\Debug\CryptoRate.Form1.resources
+D:\GithubNew\11\CryptoTracker\Tracker\CryptoRate\obj\Debug\CryptoRate.Properties.Resources.resources
+D:\GithubNew\11\CryptoTracker\Tracker\CryptoRate\obj\Debug\CryptoTracker.csproj.GenerateResource.cache
+D:\GithubNew\11\CryptoTracker\Tracker\CryptoRate\obj\Debug\CryptoTracker.csproj.CoreCompileInputs.cache
