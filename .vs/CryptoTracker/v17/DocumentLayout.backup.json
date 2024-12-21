@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GithubNew\\11\\CryptoTracker\\Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B48E6826-C8F3-4E33-8685-CDF41796B325}|CryptoRate\\CryptoTracker.csproj|d:\\githubnew\\11\\cryptotracker\\tracker\\cryptorate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B48E6826-C8F3-4E33-8685-CDF41796B325}|CryptoRate\\CryptoTracker.csproj|solutionrelative:cryptorate\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48E6826-C8F3-4E33-8685-CDF41796B325}|CryptoRate\\CryptoTracker.csproj|d:\\githubnew\\11\\cryptotracker\\tracker\\cryptorate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48E6826-C8F3-4E33-8685-CDF41796B325}|CryptoRate\\CryptoTracker.csproj|solutionrelative:cryptorate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\GithubNew\\11\\CryptoTracker\\Tracker\\CryptoRate\\Form1.cs",
+              "RelativeDocumentMoniker": "CryptoRate\\Form1.cs",
+              "ToolTip": "D:\\GithubNew\\11\\CryptoTracker\\Tracker\\CryptoRate\\Form1.cs [Design]",
+              "RelativeToolTip": "CryptoRate\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:34:33.729Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GithubNew\\11\\CryptoTracker\\Tracker\\CryptoRate\\Program.cs",
+              "RelativeDocumentMoniker": "CryptoRate\\Program.cs",
+              "ToolTip": "D:\\GithubNew\\11\\CryptoTracker\\Tracker\\CryptoRate\\Program.cs",
+              "RelativeToolTip": "CryptoRate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:34:32.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
